@@ -16,11 +16,11 @@ The controls for SpaceShooter are simple and easy to use. The player can use the
 
 ## Credits
 
-SpaceShooter was created by [Your Name] using GameMaker Studio. The game features artwork and sound effects from various sources, including [list of sources].
+SpaceShooter was created by Samuel Ricardo using GameMaker Studio.
 
 ## License
 
-SpaceShooter is licensed under the [license name]. You are free to use, modify, and distribute the game as long as you give credit to the original creator and follow the terms of the license.
+SpaceShooter is licensed under the MIT License. You are free to use, modify, and distribute the game as long as you give credit to the original creator and follow the terms of the license.
 
 ## Conclusion
 
